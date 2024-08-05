@@ -1,4 +1,4 @@
-# ISTE HIT Organisation
+# ISTE HIT Organization
 
 Welcome to the ISTE HIT GitHub organization! We develop projects to help students and developers learn and engage with various technologies and tools.
 
